@@ -7,7 +7,7 @@ ruby '2.5.0'
 gem 'rails', '~> 5.2.0'
 gem 'bundler'
 # Use Puma as the app server
-gem 'puma', '~> 3.11'
+gem 'puma', '3.0'
 
 gem 'devise'
 gem 'twitter-bootstrap-rails'
